@@ -1,2 +1,3 @@
-Fecha;Estudiante;Grado;Tipo de Permiso;Periodo del Permiso;Razón;¿Excusado?;Responsable
-13/Aug/25;Duque Cristian;12B;Late Arrival;Homeroom;El estudiante se levanto tarde;No;Tania Gonzalez
+Fecha,Estudiante,Grado,Tipo de Permiso,Periodo del Permiso,RazÃ³n,Â¿Excusado?,Responsable
+13/Aug/25,Duque Cristian,12B,Late Arrival,Homeroom,El estudiante se levanto tarde,No,Tania Gonzalez
+
